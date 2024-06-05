@@ -1,4 +1,4 @@
-# token_program
+# TOKEN_PROGRAMM
 A simple smart contract that stakes a user token and unstake a user token.
 
 # Description
@@ -17,3 +17,4 @@ Ajayi Damola Ramon
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
